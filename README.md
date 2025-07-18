@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Project Banner](https://www.youtube.com/watch?v=iYOz165wGkQ)
+![Project Banner](https://www.bing.com/images/search?view=detailV2&ccid=si5OT9DL&id=FA1E62AD0C7A1F957720034EC77E6AC5ABED074E&thid=OIP.si5OT9DL-KZHDehIuLXHLAHaEO&mediaurl=https%3a%2f%2fresumeoptimizerpro.com%2fimages%2fblog-ai-resume-builder.jpg&exph=409&expw=716&q=ai+resume+banner&simid=608041935742184391&FORM=IRPRST&ck=B12E9785F5D3AA6180F94CE04846AE8E&selectedIndex=64&itb=0)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
